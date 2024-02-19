@@ -1,4 +1,5 @@
 import 'package:adaptive_theme/adaptive_theme.dart';
+import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
 import 'package:weatherforecast/controller/weathercontroller.dart';
@@ -11,6 +12,10 @@ import 'package:weatherforecast/widgets/contentwidgets.dart';
 import 'package:weatherforecast/widgets/googlemaps.dart';
 
 void main() {
+  SystemChrome.setPreferredOrientations([
+    DeviceOrientation.portraitUp,
+    DeviceOrientation.portraitDown,
+  ]);
   runApp(const MaterialApp(
     debugShowCheckedModeBanner: false,
     home: MyApp(),
