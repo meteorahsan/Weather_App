@@ -1,15 +1,11 @@
-import 'dart:developer';
-
 import 'package:adaptive_theme/adaptive_theme.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
-import 'package:permission_handler/permission_handler.dart';
 import 'package:weatherforecast/controller/weathercontroller.dart';
 import 'package:weatherforecast/repositories/weatherrepo.dart';
-import 'package:weatherforecast/utils/colors.dart';
+
 import 'package:weatherforecast/utils/images.dart';
-import 'package:weatherforecast/utils/toaster.dart';
+
 import 'package:weatherforecast/widgets/contentwidgets.dart';
 
 import 'package:weatherforecast/widgets/googlemaps.dart';
@@ -23,7 +19,6 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
   Widget _resultView(ctx) =>
       Weathercontroller.i.state == AppState.FINISHED_DOWNLOADING
           ? contentFinishedDownload(ctx)
@@ -73,8 +68,8 @@ class MyApp extends StatelessWidget {
                     IconButton(
                         onPressed: () async {
                           await Get.to(() => GoogleMapsScreen(
-                                lat: Weathercontroller.i.lat,
-                                long: Weathercontroller.i.long,
+                                lat: ctr.lat,
+                                long: ctr.long,
                               ));
                           WeatherRepo.queryForecast();
                         },

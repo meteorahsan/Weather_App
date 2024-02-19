@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:get/get.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:weather/weather.dart';
 import 'package:weatherforecast/controller/weathercontroller.dart';
 import 'package:weatherforecast/repositories/maps.dart';
 import 'package:weatherforecast/utils/colors.dart';
