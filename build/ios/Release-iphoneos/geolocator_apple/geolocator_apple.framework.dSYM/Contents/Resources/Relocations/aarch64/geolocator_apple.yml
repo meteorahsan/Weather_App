@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/ios/Release-iphoneos/geolocator_apple/geolocator_apple.framework/geolocator_apple'
+binary-path:     '/Users/iahsaniqbal/Documents/GitHub/Weather_App/build/ios/Release-iphoneos/geolocator_apple/geolocator_apple.framework/geolocator_apple'
 relocations:
   - { offsetInCU: 0x34, offset: 0x57D55, size: 0x8, addend: 0x0, symName: _geolocator_appleVersionString, symObjAddr: 0x0, symBinAddr: 0x8338, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x57D8A, size: 0x8, addend: 0x0, symName: _geolocator_appleVersionNumber, symObjAddr: 0x30, symBinAddr: 0x8368, symSize: 0x0 }

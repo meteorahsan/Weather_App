@@ -8,6 +8,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "args",
+      "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/args-2.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "async",
       "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
@@ -38,6 +44,18 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "connectivity_plus",
+      "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "connectivity_plus_platform_interface",
+      "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/connectivity_plus_platform_interface-1.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "crypto",
       "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
@@ -54,6 +72,12 @@
       "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "dbus",
+      "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/dbus-0.7.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "fake_async",
@@ -344,6 +368,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nm",
+      "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/nm-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "package_info_plus",
       "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/package_info_plus-4.2.0",
       "packageUri": "lib/",
@@ -414,6 +444,12 @@
       "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/petitparser-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
     },
     {
       "name": "platform",
@@ -602,13 +638,19 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///Users/iahsaniqbal/.pub-cache/hosted/pub.dev/xml-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "weatherforecast",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-02-19T05:24:04.342014Z",
+  "generated": "2024-02-19T05:38:22.304051Z",
   "generator": "pub",
   "generatorVersion": "3.2.5"
 }

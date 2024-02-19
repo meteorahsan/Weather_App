@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		jouSU2TljnQdv3ZlMIaLu5sk5ZY=
+		w2qtywTvgy6dTEaxf7xVbqT9/dI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		58L88+1ltXtMZXcPeXvxZXugPuU=
+		fZec0dAgQldVPt9Ds8aD1TSejCc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		J7HGFM4nPxbJxC/xL3wxpj8C/KE=
+		8OE1dY/L+EXAsrVx4QWppap0YUI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/Background.png</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		RYRRWg+slRS1rp3t3Hlfno2q5eI=
+		t4UO3iQng5Jor5eu4oyJYYeP9Nk=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -188,6 +188,18 @@
 		<data>
 		Ubat0LvE4LUgCwHeyl0Anx2vnzk=
 		</data>
+		<key>Frameworks/Reachability.framework/Info.plist</key>
+		<data>
+		jc6SAq5Uet0yeM5ywJQTb4dEmWE=
+		</data>
+		<key>Frameworks/Reachability.framework/Reachability</key>
+		<data>
+		2Cfxdi+kOxBtHSDkY277ic33Y28=
+		</data>
+		<key>Frameworks/Reachability.framework/_CodeSignature/CodeResources</key>
+		<data>
+		+irkP30Ueyx+EeW4n7BgdVdyKTU=
+		</data>
 		<key>Frameworks/Toast.framework/Info.plist</key>
 		<data>
 		SFKhee1hqwkTk3MTHh47bWw9m6E=
@@ -198,11 +210,23 @@
 		</data>
 		<key>Frameworks/Toast.framework/Toast</key>
 		<data>
-		pEJNnWSpJzGJT/z5GFgRkYxqV2g=
+		z/w/PQtmpIHmcYlL+DTXNfm+6Vw=
 		</data>
 		<key>Frameworks/Toast.framework/_CodeSignature/CodeResources</key>
 		<data>
 		M5LjOQuYFDWpcxoQUfkqCl6gqwQ=
+		</data>
+		<key>Frameworks/connectivity_plus.framework/Info.plist</key>
+		<data>
+		I+UwuEylsxR8CtRunjK22rS3GPw=
+		</data>
+		<key>Frameworks/connectivity_plus.framework/_CodeSignature/CodeResources</key>
+		<data>
+		WopoAUjBo/X8D4WM2MpApqeU2Yg=
+		</data>
+		<key>Frameworks/connectivity_plus.framework/connectivity_plus</key>
+		<data>
+		6QhaA4PrNA3YRcyafr3N761A3oc=
 		</data>
 		<key>Frameworks/flutter_keyboard_visibility.framework/Info.plist</key>
 		<data>
@@ -214,7 +238,7 @@
 		</data>
 		<key>Frameworks/flutter_keyboard_visibility.framework/flutter_keyboard_visibility</key>
 		<data>
-		1SHkRx2UIjKtsklbXpAOSfKOrfk=
+		qP+1j2pBq42hRr3tMNKqw3PiPRo=
 		</data>
 		<key>Frameworks/fluttertoast.framework/Info.plist</key>
 		<data>
@@ -226,7 +250,7 @@
 		</data>
 		<key>Frameworks/fluttertoast.framework/fluttertoast</key>
 		<data>
-		ZDctlJIDaqtoeUPSFxSnZ3igMCs=
+		lPJfg00s0I3JeT8eGuwHTiH1CPQ=
 		</data>
 		<key>Frameworks/geocoding_ios.framework/Info.plist</key>
 		<data>
@@ -238,7 +262,7 @@
 		</data>
 		<key>Frameworks/geocoding_ios.framework/geocoding_ios</key>
 		<data>
-		AkFaNRW+POhE7FB0wO1TYA1+j8Y=
+		QxSSOjp+60mQEWI1yEZMk3c4gYw=
 		</data>
 		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
 		<data>
@@ -250,7 +274,7 @@
 		</data>
 		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
 		<data>
-		djeXoop9fEDEsHjNor7h/dl0WY0=
+		Sfkg0S0+04HOJ2DT1CsDepGwHcc=
 		</data>
 		<key>Frameworks/package_info_plus.framework/Info.plist</key>
 		<data>
@@ -262,7 +286,7 @@
 		</data>
 		<key>Frameworks/package_info_plus.framework/package_info_plus</key>
 		<data>
-		HNVcOl5RWRnIuC5BKDbEDd0N/dM=
+		Pq2SnMTHUE+EM+7Kv4eaLR1h6pw=
 		</data>
 		<key>Frameworks/pointer_interceptor_ios.framework/Info.plist</key>
 		<data>
@@ -274,7 +298,7 @@
 		</data>
 		<key>Frameworks/pointer_interceptor_ios.framework/pointer_interceptor_ios</key>
 		<data>
-		anBpAsSVqhOD5o34dGf12LhQxSQ=
+		Ai8rr5j9UehqCEAWgHmQxprlwHQ=
 		</data>
 		<key>Frameworks/pointer_interceptor_ios.framework/pointer_interceptor_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -283,6 +307,26 @@
 		<key>Frameworks/pointer_interceptor_ios.framework/pointer_interceptor_ios_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		/LX0ZlwxwIAIhjZaDB8EiH5KpXA=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
+		<data>
+		tQy6x4vtCjCub9iOTeM2zTn02rQ=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
+		<data>
+		y4gsIq/Jv4RKIEB4YKtTCoFuPZQ=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
+		<data>
+		fI0nseSSMeonCGHQC5fFv09q2SE=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
+		<data>
+		V7Bdj4QPIZwz+f0A3P+NEWW/zHg=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		6uLTlq7fgHHWA8emYDf4ImHC+AY=
 		</data>
 		<key>GoogleMaps.bundle/Assets.car</key>
 		<data>
@@ -1182,7 +1226,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KTbO+zlZVcyLRcGjuCyol3OtmoNz4epwpU7fPbS6Iik=
+			/CX/mqL9CKthpGk2KXAkyXFzTBsHkA+c72QH10uEBqU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -1196,7 +1240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BJnnPmp0sG6/Q+I7EsHSwHiY/PFsfBHnGnr9I3iRobo=
+			YbK0B21Gj3KviB+NvqWE7hH7jMIHdUat6+gTLph1KwI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -1224,7 +1268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fP4j3ibnuqsgmmpbVtlABu6KRWtBYnM2N0GVADF35+o=
+			OClGfbl+c0RoW4xd36BZoRZfit1LaghxDtfiRenH9J4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/Background.png</key>
@@ -1287,7 +1331,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pVt3B/XW6+PQsLRCqHVAvhjMy9nVTK2itlHCkTXBkWk=
+			fy1dA+pth3L0Goo3W57pBhFVZp6woHVmvM+DNtB4Abk=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -1430,6 +1474,27 @@
 			ZepykIMSjfzhwAcmupMrkaqvXkhza1ZE3TdHjl8odaw=
 			</data>
 		</dict>
+		<key>Frameworks/Reachability.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8b7IIqoL1pKswSwE7QQs1oPTJ4v06TAJdw9Sk3PhFXw=
+			</data>
+		</dict>
+		<key>Frameworks/Reachability.framework/Reachability</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tfqJ0OU7gGafNOeQbTAxeeLhr3pTbT29pZk3ERqsqV8=
+			</data>
+		</dict>
+		<key>Frameworks/Reachability.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5h/8u2f9o4WZNC+Sbcr0giH6NIQAFEovDM6b5atkxgQ=
+			</data>
+		</dict>
 		<key>Frameworks/Toast.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1448,7 +1513,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8BERg1csAFikb8BpeNP0RZT9JpK2ZYZIFgSGEk6aTk0=
+			qKWlT1EMJJZFKE2rPHHDUwb0ZRBfEbokhIC/tURkprc=
 			</data>
 		</dict>
 		<key>Frameworks/Toast.framework/_CodeSignature/CodeResources</key>
@@ -1456,6 +1521,27 @@
 			<key>hash2</key>
 			<data>
 			8+38U9nU3ImdPNw1h6PlbxJfy/ddToCnNGXoqOIIvh8=
+			</data>
+		</dict>
+		<key>Frameworks/connectivity_plus.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qk9YBiIUZOIRFK6uBp+wguiylKpMLTN0stuOLKUPFcU=
+			</data>
+		</dict>
+		<key>Frameworks/connectivity_plus.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AZ+YdTv9eaHKs+MXyidKfXzNCa6PE3e0zBAr4OWoDkM=
+			</data>
+		</dict>
+		<key>Frameworks/connectivity_plus.framework/connectivity_plus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bOLXjX47dAaRNKmEc7y6bRIX6NQM89j7VPJym/YdaTY=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_keyboard_visibility.framework/Info.plist</key>
@@ -1476,7 +1562,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MyZj3YNl2YX4gCUOvW+7Na2Png2dm1HFfZgYL/7lMbY=
+			YGOX6qW6r42U6svzgXs4Cvw6YpSTt1EEMGmrgdj2Cus=
 			</data>
 		</dict>
 		<key>Frameworks/fluttertoast.framework/Info.plist</key>
@@ -1497,7 +1583,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BoMfFs7fVMka/0YPXOJQWO1IvkJCJqOtNtp5f1COTsQ=
+			Xcttij3/a2moLLrk8ThQ4ezcnQrMv6lJvFNfr3gnXEE=
 			</data>
 		</dict>
 		<key>Frameworks/geocoding_ios.framework/Info.plist</key>
@@ -1518,7 +1604,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kxY0P178IGeHzIJjeol3u8w/cx+eegdYWV9AMaOAmqo=
+			PuRN0acZr90A0+KttfLfb/7unnEBQgIPi/nYK17vUvo=
 			</data>
 		</dict>
 		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
@@ -1539,7 +1625,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+GkGBa+LsOVPBK8+ovsKSE7K4KWa/Wsadk1zt7FnFrI=
+			PwDxbv5GtTskph5hY175Dv5EfnthM3+q8nNQGDrRX4c=
 			</data>
 		</dict>
 		<key>Frameworks/package_info_plus.framework/Info.plist</key>
@@ -1560,7 +1646,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jos1ZYZ77iSG1BHJSovPCNOlKWDG12p57uKYaKlqfAU=
+			HfyTok0W6eP8YBIhhLjxw26KQHKDntsz7nYNqLs1gyM=
 			</data>
 		</dict>
 		<key>Frameworks/pointer_interceptor_ios.framework/Info.plist</key>
@@ -1581,7 +1667,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hENLEEgPLqnDZK7c58zzKZll76IhuLLMP4hXaKOss5c=
+			XRS9X6Mor/sTXH6tZzimKXmvDOFirZYBjl5ARsi/wQQ=
 			</data>
 		</dict>
 		<key>Frameworks/pointer_interceptor_ios.framework/pointer_interceptor_ios_privacy.bundle/Info.plist</key>
@@ -1596,6 +1682,41 @@
 			<key>hash2</key>
 			<data>
 			bS2g2NkwIn1CjB2TY7CtbjoS4sm2jFzilxWKdBL8jDE=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p+ETdh0sZioujeG4j3sm7IiU9R0KvzP1dJuA0P3h8Ns=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LqNlMyUJb8ne4f4m/sIplLVStXTYMUHXty9R6SevhlI=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			scU6WKzyzt4F9xaomCSYA7jFasGjR94yKJqBq771jp0=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3B8tGvtJyH8z0HwrBAXdjPC2Lp/p/KbeRUh6xAAkbAM=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BWQouTi9VwGKYAGdFcPB7i+nJ/I2h1mLu9k0hIsYCxo=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/Assets.car</key>

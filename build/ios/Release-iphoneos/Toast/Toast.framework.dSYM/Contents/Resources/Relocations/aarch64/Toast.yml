@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/ios/Release-iphoneos/Toast/Toast.framework/Toast'
+binary-path:     '/Users/iahsaniqbal/Documents/GitHub/Weather_App/build/ios/Release-iphoneos/Toast/Toast.framework/Toast'
 relocations:
   - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _ToastVersionString, symObjAddr: 0x0, symBinAddr: 0x74B0, symSize: 0x0 }
   - { offsetInCU: 0x67, offset: 0x67, size: 0x8, addend: 0x0, symName: _ToastVersionNumber, symObjAddr: 0x28, symBinAddr: 0x74D8, symSize: 0x0 }
@@ -16,8 +16,8 @@ relocations:
   - { offsetInCU: 0x147, offset: 0x1C3, size: 0x8, addend: 0x0, symName: _CSToastActivityViewKey, symObjAddr: 0x2640, symBinAddr: 0xD8F0, symSize: 0x0 }
   - { offsetInCU: 0x15C, offset: 0x1D8, size: 0x8, addend: 0x0, symName: _CSToastQueueKey, symObjAddr: 0x2648, symBinAddr: 0xD8F8, symSize: 0x0 }
   - { offsetInCU: 0x165, offset: 0x1E1, size: 0x8, addend: 0x0, symName: '+[CSToastManager sharedManager]', symObjAddr: 0x1F18, symBinAddr: 0x5F18, symSize: 0x74 }
-  - { offsetInCU: 0x190, offset: 0x20C, size: 0x8, addend: 0x0, symName: _sharedManager._sharedManager, symObjAddr: 0x10688, symBinAddr: 0xD900, symSize: 0x0 }
-  - { offsetInCU: 0x1A6, offset: 0x222, size: 0x8, addend: 0x0, symName: _sharedManager.oncePredicate, symObjAddr: 0x10690, symBinAddr: 0xD908, symSize: 0x0 }
+  - { offsetInCU: 0x190, offset: 0x20C, size: 0x8, addend: 0x0, symName: _sharedManager._sharedManager, symObjAddr: 0x10668, symBinAddr: 0xD900, symSize: 0x0 }
+  - { offsetInCU: 0x1A6, offset: 0x222, size: 0x8, addend: 0x0, symName: _sharedManager.oncePredicate, symObjAddr: 0x10670, symBinAddr: 0xD908, symSize: 0x0 }
   - { offsetInCU: 0x789, offset: 0x805, size: 0x8, addend: 0x0, symName: '-[UIView(Toast) makeToast:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
   - { offsetInCU: 0x7C8, offset: 0x844, size: 0x8, addend: 0x0, symName: '-[UIView(Toast) makeToast:duration:position:]', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
   - { offsetInCU: 0x81E, offset: 0x89A, size: 0x8, addend: 0x0, symName: '-[UIView(Toast) makeToast:duration:position:style:]', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8C }

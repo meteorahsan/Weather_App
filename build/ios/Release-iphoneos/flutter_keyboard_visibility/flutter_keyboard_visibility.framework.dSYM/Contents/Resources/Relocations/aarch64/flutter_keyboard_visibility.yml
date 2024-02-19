@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/ios/Release-iphoneos/flutter_keyboard_visibility/flutter_keyboard_visibility.framework/flutter_keyboard_visibility'
+binary-path:     '/Users/iahsaniqbal/Documents/GitHub/Weather_App/build/ios/Release-iphoneos/flutter_keyboard_visibility/flutter_keyboard_visibility.framework/flutter_keyboard_visibility'
 relocations:
   - { offsetInCU: 0x33, offset: 0x3C6C, size: 0x8, addend: 0x0, symName: _flutter_keyboard_visibilityVersionString, symObjAddr: 0x0, symBinAddr: 0x4628, symSize: 0x0 }
   - { offsetInCU: 0x67, offset: 0x3CA0, size: 0x8, addend: 0x0, symName: _flutter_keyboard_visibilityVersionNumber, symObjAddr: 0x40, symBinAddr: 0x4668, symSize: 0x0 }

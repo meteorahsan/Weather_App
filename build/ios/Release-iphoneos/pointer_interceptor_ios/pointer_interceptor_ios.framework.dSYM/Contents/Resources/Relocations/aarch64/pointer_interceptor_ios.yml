@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/ios/Release-iphoneos/pointer_interceptor_ios/pointer_interceptor_ios.framework/pointer_interceptor_ios'
+binary-path:     '/Users/iahsaniqbal/Documents/GitHub/Weather_App/build/ios/Release-iphoneos/pointer_interceptor_ios/pointer_interceptor_ios.framework/pointer_interceptor_ios'
 relocations:
   - { offsetInCU: 0x34, offset: 0x573D3, size: 0x8, addend: 0x0, symName: _pointer_interceptor_iosVersionString, symObjAddr: 0x0, symBinAddr: 0x6BE0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x57408, size: 0x8, addend: 0x0, symName: _pointer_interceptor_iosVersionNumber, symObjAddr: 0x38, symBinAddr: 0x6C18, symSize: 0x0 }
