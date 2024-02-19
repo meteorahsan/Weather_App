@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:4:5-36:19
+MERGED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/4bd8a3cc2482cb2b066f8afff4cc32cd/transformed/jetified-play-services-location-21.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/4bd8a3cc2482cb2b066f8afff4cc32cd/transformed/jetified-play-services-location-21.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/iahsaniqbal/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/iahsaniqbal/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/iahsaniqbal/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/iahsaniqbal/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [:google_maps_flutter_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:21.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/4bd8a3cc2482cb2b066f8afff4cc32cd/transformed/jetified-play-services-location-21.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/iahsaniqbal/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a375e6442995f1692e67f5fe828763/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/4698c8389aab97a13185bbdca047bcf7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/6c36648a6bd37ba2d1f05531ca2deed6/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/089cc0deb553b26f347524a2dd1eaeac/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/iahsaniqbal/.gradle/caches/transforms-3/db4b39695b36fb6bc4e9dc229c8d81d0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/iahsaniqbal/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/3d57e67c0a1f2752984ca23f012631f4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/0172104bff25e1393053633f9172bd6a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/bf5dd381130a3cf8082f7b568bcf6d23/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/7af11670d425efaf60da5ca1ba948b2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e1d8c2bc91e7b6cf427c9a8e7753caca/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/761929e091d544d9e6394773eda8bdee/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:2:1-76
+	android:name
+		ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:2:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:3:1-74
+	android:name
+		ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml:3:18-72
+uses-sdk
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml
+MERGED from [:google_maps_flutter_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/4bd8a3cc2482cb2b066f8afff4cc32cd/transformed/jetified-play-services-location-21.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/4bd8a3cc2482cb2b066f8afff4cc32cd/transformed/jetified-play-services-location-21.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/iahsaniqbal/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/iahsaniqbal/.gradle/caches/transforms-3/a69aee20ef806658ed8bc12659bffe4f/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a375e6442995f1692e67f5fe828763/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a375e6442995f1692e67f5fe828763/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/4698c8389aab97a13185bbdca047bcf7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/4698c8389aab97a13185bbdca047bcf7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/6c36648a6bd37ba2d1f05531ca2deed6/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/6c36648a6bd37ba2d1f05531ca2deed6/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/089cc0deb553b26f347524a2dd1eaeac/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/089cc0deb553b26f347524a2dd1eaeac/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/iahsaniqbal/.gradle/caches/transforms-3/db4b39695b36fb6bc4e9dc229c8d81d0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/iahsaniqbal/.gradle/caches/transforms-3/db4b39695b36fb6bc4e9dc229c8d81d0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/iahsaniqbal/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/iahsaniqbal/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/3d57e67c0a1f2752984ca23f012631f4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/3d57e67c0a1f2752984ca23f012631f4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/0172104bff25e1393053633f9172bd6a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/0172104bff25e1393053633f9172bd6a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/bf5dd381130a3cf8082f7b568bcf6d23/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/bf5dd381130a3cf8082f7b568bcf6d23/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/7af11670d425efaf60da5ca1ba948b2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/7af11670d425efaf60da5ca1ba948b2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e1d8c2bc91e7b6cf427c9a8e7753caca/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e1d8c2bc91e7b6cf427c9a8e7753caca/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/761929e091d544d9e6394773eda8bdee/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/761929e091d544d9e6394773eda8bdee/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/iahsaniqbal/Documents/fullstackexpert/weatherforecast/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-77
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/iahsaniqbal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/01dbff8927e8b2aa767c55cc1914bf9e/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/e0a8793a7a85d6e071b7a743c9adf075/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.weatherforecast.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.weatherforecast.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/iahsaniqbal/.gradle/caches/transforms-3/d9a7bda5b0a0d2fc08828ff145bfcb70/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
